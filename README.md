@@ -54,7 +54,25 @@ Assure-toi que le bot a les permissions suivantes :
 
 ---
 
-## **🛠️ Développement**  
-- **Python 3.10+**  
-- **discord.py 2.3.2**  
+## 🛠️ **Contribute**  
 
+Contributions are welcome! 🎉  
+1. Clone the repo:  
+   ```bash
+   git clone https://github.com/wathdb/ProCounter.git
+   ```  
+2. Submit your changes via a pull request.  
+
+---
+
+## 📬 **Contact & Support**  
+💬 Have questions or suggestions? Contact me directly on Discord: **wathD_**.  
+
+---
+
+## 🌟 **Give a Star ⭐**  
+If you like this project, consider giving it a star on GitHub to support it! 😊  
+
+---
+
+**Created with ❤️ by [wathD]**
