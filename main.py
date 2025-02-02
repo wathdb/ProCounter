@@ -2,7 +2,7 @@ import discord
 import asyncio
 
 TOKEN = ""
-CHANNEL_ID = 1335246138823147614  # Remplace avec l'ID du salon
+CHANNEL_ID = 123456789  # Remplace avec l'ID du salon
 EMOJI = "✅"
 BASE_NUMBER = 1  # Commence à 1 (int)
 
