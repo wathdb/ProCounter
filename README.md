@@ -17,7 +17,7 @@ ProCounter est un **bot Discord** qui permet de compter de manière ordonnée da
 
 1️⃣ **Clone le repo**  
 ```bash
-git clone https://github.com/tonpseudo/ProCounter.git
+git clone https://github.com/wathdb/ProCounter.git
 cd ProCounter
 ```
 
