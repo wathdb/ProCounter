@@ -1,56 +1,56 @@
 # **ProCounter** 📊  
 
-ProCounter est un **bot Discord** qui permet de compter de manière ordonnée dans un salon dédié. Il ajoute une réaction ✅ aux nombres valides et supprime uniquement les messages incorrects.
+ProCounter is a **Discord bot** that helps maintain an ordered counting sequence in a dedicated channel. It adds a ✅ reaction to valid numbers and deletes only incorrect messages.  
 
 ---
 
-## **🚀 Fonctionnalités**  
+## **🚀 Features**  
 
-✔️ Envoie automatiquement `1` au lancement.  
-✔️ Vérifie uniquement le **dernier message envoyé** pour éviter les suppressions en chaîne.  
-✔️ **Ajoute une réaction ✅** si le message correspond au nombre attendu.  
-✔️ **Supprime uniquement** le dernier message incorrect.  
+✔️ Automatically sends `1` on startup.  
+✔️ Checks **only the last sent message** to avoid mass deletions.  
+✔️ **Adds a ✅ reaction** if the message matches the expected number.  
+✔️ **Deletes only** the last incorrect message.  
 
 ---
 
 ## **📦 Installation**  
 
-1️⃣ **Clone le repo**  
+1️⃣ **Clone the repository**  
 ```bash
 git clone https://github.com/wathdb/ProCounter.git
 cd ProCounter
 ```
 
-2️⃣ **Installe les dépendances**  
+2️⃣ **Install dependencies**  
 ```bash
 pip install discord
 ```
 
-3️⃣ **Configure ton bot**  
-- Remplace **`TOKEN`** par ton **token de bot**  
-- Mets l'**ID du salon** où le bot doit fonctionner  
+3️⃣ **Configure your bot**  
+- Replace **`TOKEN`** with your **bot token**  
+- Set the **channel ID** where the bot should operate  
 
 ---
 
-## **▶️ Lancer le bot**  
+## **▶️ Run the Bot**  
 ```bash
 python main.py
 ```
 
 ---
 
-## **📜 Permissions requises**  
-Assure-toi que le bot a les permissions suivantes :  
-✅ Lire & Envoyer des messages  
-✅ Ajouter des réactions  
-✅ Supprimer des messages  
+## **📜 Required Permissions**  
+Make sure the bot has the following permissions:  
+✅ Read & Send messages  
+✅ Add reactions  
+✅ Delete messages  
 
 ---
 
-## **📌 Améliorations futures**  
-- Ajouter une **commande pour reset** le compteur  
-- Sauvegarder **l'état du compteur** en cas de redémarrage  
-- Ajouter une **interface Web** pour configurer le bot  
+## **📌 Future Improvements**  
+- Add a **command to reset** the counter  
+- Save **counter state** in case of a restart  
+- Add a **Web interface** to configure the bot  
 
 ---
 
@@ -75,4 +75,4 @@ If you like this project, consider giving it a star on GitHub to support it! �
 
 ---
 
-**Created with ❤️ by [wathD]**
+**Created with ❤️ by [wathD]** 🚀
